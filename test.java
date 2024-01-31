@@ -23,7 +23,7 @@ case '*':
 result = first * second;
 break;
 case '/':
-result = first / second
+result = first / second;
 break;
 // operator doesn't match any case constant (+, -, *, /)
  
